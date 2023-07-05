@@ -1,0 +1,23 @@
+num1 = 5
+num2 = 8
+print (num1 + num2)
+print (num1 / num2)
+print (num1 * num2)
+print (num1 - num2)
+print('''Program Title: Biodata
+         Programmer: Justine Alfonso
+         Date Created:7/5/2023
+         Description of the Program: Biodata
+
+         First Name: Justine Jan
+         Middle Name: Debalos
+         Last Name: Alfonso
+         Course: BSIT
+         Year: 3rd Year
+         Age: 19
+         Gender: Male
+         Civil Status: Married
+         Nationality: Pakistani
+         Motto: kumain kanaba?
+         School: PHINMA Araullo University
+         College: CITE''')
